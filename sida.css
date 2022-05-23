@@ -64,6 +64,11 @@ main {
     margin-left: 20%;
 }
 
+img {
+    width: 110vh;
+    height: 80vh;
+}
+
 button {
     text-align: center;
     font-size: 1.25vmax;
@@ -73,11 +78,6 @@ button {
     width: 10vw;
     height: 5vh;
     border-radius: 5vmax;
-}
-
-img {
-    width: 110vh;
-    height: 80vh;
 }
 
 footer {
@@ -101,7 +101,7 @@ footer {
     width: 40%;
 }
 
-.logo {
+.logga {
     width: 3vmax;
     height: 3vmax;
     margin: 1.5vmax;

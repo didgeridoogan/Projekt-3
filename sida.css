@@ -80,6 +80,14 @@ button {
     border-radius: 5vmax;
 }
 
+h1 {
+    text-align: center;
+        font-size: 1.5vmax;
+        background-color: #eacaca;
+        color: white;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 footer {
     text-align: center;
     font-family:sans-serif;
@@ -113,4 +121,13 @@ h2 {
 
 p {
     color: white;
+}
+
+.columns {
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.columns div img {
+    width: 100%;
 }
